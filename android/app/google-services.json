@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222476016561",
+    "project_id": "notamess-90b95",
+    "storage_bucket": "notamess-90b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222476016561:android:2cb9be05b3fa3ff59e3b90",
+        "android_client_info": {
+          "package_name": "com.example.not_a_mess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222476016561-8t3ikgb8qce7tdmoa89ugduk6jtrp6o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasFOee0ibskZgfPg6830HqbMdUA7LDmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222476016561-8t3ikgb8qce7tdmoa89ugduk6jtrp6o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
