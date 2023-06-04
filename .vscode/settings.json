@@ -1,3 +1,7 @@
 {
     "cmake.configureOnOpen": false
 }
+{
+    "cmake.sourceDirectory": "/home/abhi/AndroidStudioProjects/not_a_mess/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
