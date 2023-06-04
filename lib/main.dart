@@ -9,9 +9,9 @@ void main() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
   runApp(
-    MaterialApp(
+    const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const MyApp(),
+      home:  MyApp(),
     ),
   );
 }
