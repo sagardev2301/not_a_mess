@@ -11,7 +11,7 @@ void main() async {
   runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const MyApp(),
+      home:  const MyApp(),
     ),
   );
 }
